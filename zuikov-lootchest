@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Скачать файл</title>
+</head>
+<body>
+
+    <h1>Скачать файл lootchest.jar</h1>
+
+    <!-- Кнопка для скачивания файла -->
+    <a href="https://trianglehosting.github.io/triangledownload/files/lootchest.jar" download>
+        <button>Скачать</button>
+    </a>
+
+</body>
+</html>
